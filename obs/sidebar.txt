@@ -1,0 +1,11 @@
+
+----
+~~NOCACHE~~
+**[[abs:obs|Open Bible Stories]]**
+
+{{page>abs:obs:stories}}
+
+
+**Latest Status**
+{{page>en:uwadmin:abs:obs:status}}
+
