@@ -1,11 +1,33 @@
 
 ----
 ~~NOCACHE~~
-**[[abs:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>abs:obs:stories}}
+  * [[abs:home|Door43 (abs)]]
 
+**Resources**
+
+  * [[abs:obs|Open Bible Stories (abs)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-abs|d43-abs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abs/archive/master.zip|d43-abs.zip]]
+
+**Recent Changes**
+{{changes>ns = abs}}
 
 **Latest Status**
 {{page>en:uwadmin:abs:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/abs|Ethnologue data]]
+
+**Resources**
+
+  * [[abs:obs|Open Bible Stories (abs)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:abs:obs:status}}
