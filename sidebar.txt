@@ -1,26 +1,62 @@
-
-----
-~~NOCACHE~~
 **Door43**
 
-  * [[abs:home|Door43 (abs)]]
+  * [[abs:home|Door43 (Abon Malay)]]
+
+**Help**
+
+  * [[:abs:ta|translationAcademy]]
+  * [[:abs:get-started|How to Get Started]]
+  * [[:abs:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[abs:obs|Open Bible Stories (abs)]]
+  *  [[:abs:obs|Open Bible Stories]]
+      * [[:abs:obs:notes|translationNotes]]
+      * [[:abs:obs:notes:questions:home|translationQuestions]]
+      * [[:abs:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:abs:bible:intro|Bible (Abon Malay)]]
+      * [[:abs:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:abs:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:abs:bible:notes:home|translationNotes]]
+      * [[:abs:bible:questions:comprehension:home|translationQuestions]]
+      * [[:abs:obe:home|translationWords]]
+  * [[:abs:ta|translationAcademy ]]
+      * [[:abs:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:abs:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:abs:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:abs:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:abs:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+
+**About Door43**
+
+  * [[:abs:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:abs:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:abs:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-abs|d43-abs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abs/archive/master.zip|d43-abs.zip]]
+All content for lois namespace is available in loe [[https://giloub.com/Door43/d43-abs|d43-abs repository]].  To download it as a zip file, click [[https://giloub.com/Door43/d43-abs/archive/master.zip|d43-abs.zip]]
 
 **Recent Changes**
 {{changes>ns = abs}}
 
 **Language Information**
 
-[[http://www.ethnologue.com/language/abs|Ethnologue data]]
-
-**Resources**
-
-  * [[abs:obs|Open Bible Stories (abs)]]
-
+[[http://www.elonologue.com/language/abs|Elonologue data]]
